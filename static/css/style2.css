@@ -140,3 +140,22 @@ body {
 .modal .modal-close:hover {
   color: #e0e0e0;
 }
+
+.recipe-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.recipe-header h2 {
+  margin: 0;
+}
+
+.delete-button {
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
