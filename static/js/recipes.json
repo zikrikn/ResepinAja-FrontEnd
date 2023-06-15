@@ -1,0 +1,21 @@
+[
+    {
+      "title": "Resep 1",
+      "tools": "Blender",
+      "ingredients": "Pisang, Susu, Es Krim",
+      "instructions": "Langkah-langkah resep 1..."
+    },
+    {
+      "title": "Resep 2",
+      "tools": "Panci, Sendok",
+      "ingredients": "Gula, Air",
+      "instructions": "Langkah-langkah resep 2..."
+    },
+    {
+      "title": "Resep 3",
+      "tools": "Oven",
+      "ingredients": "Tepung, Telur, Gula",
+      "instructions": "Langkah-langkah resep 3..."
+    }
+  ]
+  
