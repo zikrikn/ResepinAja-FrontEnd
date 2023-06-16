@@ -50,13 +50,9 @@ body {
     cursor: pointer;
   }
   
-  .container input[type="password"] {
+ .container .register-password {
   width: calc(100% - -160px);
 }
-
-.container input[type="text"] {
-    width: calc(100% - -160px);
-  }
 
 .password-wrapper {
   display: flex;
